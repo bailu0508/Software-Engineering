@@ -1,4 +1,4 @@
-    项目仓库地址 https://github.com/FCncdn/SecondHandTRansactionWebsite.git
+    项目仓库地址 https://github.com/FCncdn/SecondHandTransactions
 	
 	成员姓名		账号          		账号地址
 	陈浩铭 		16hmchen  			https://github.com/16hmchen
