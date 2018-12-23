@@ -5,7 +5,7 @@
     黄平淇 		umgood  			https://github.com/umgood
     张钧诚 		16jczhang			https://github.com/16jczhang
     王志伟 		WzwDa				https://github.com/WzwDa
-    陈冬云 		Dawn19961231		https://github.com/Dawn19961231
+    陈冬云 		Dawnchan1997		https://github.com/Dawn19961231
     廖振楠 		Evansliao			https://github.com/Evansliao
     郑立旺 		16lwzheng			https://github.com/Evansliao
     陈镕坤 		16rkchen			https://github.com/16lwzheng
